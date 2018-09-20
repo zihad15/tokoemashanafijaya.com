@@ -22,3 +22,15 @@ Route::get('/home', function () {
 Route::get('/perhiasan-cincin', function () {
     return view('galeries.cincin');
 });
+
+Route::get('/perhiasan-gelang', function () {
+    return view('galeries.gelang');
+});
+
+Route::get('/perhiasan-kalung', function () {
+    return view('galeries.kalung');
+});
+
+Route::get('/perhiasan-anting', function () {
+    return view('galeries.anting');
+});

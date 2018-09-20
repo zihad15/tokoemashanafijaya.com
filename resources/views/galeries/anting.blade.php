@@ -1,12 +1,14 @@
 @extends('master')
 @section('content')
-	<div id="fh5co-page">
 
+	<div id="fh5co-page">
+	
 	<div class="aside-toggle btn-circle">
 		<a href="#"><span></span><em>About</em></a>
 	</div>
-
-
+	<div class="back-to-home btn-circle">
+		<a href="{{ url('home') }}"><span></span><em>Back</em></a>
+	</div>
 
 	<div id="fh5co-aside">
 		<div class="image-bg"></div>
@@ -50,465 +52,438 @@
 		</div>
 	</div>
 	<div class="container-fluid" id="fh5co-image-grid">
-
+		
 
 		<div class="grid">
 		  <div class="grid-sizer"></div>
 
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		  		<a href="{{ url('perhiasan-cincin') }}">
+		  		<a href="assets/master/images/anting/1.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="assets/master/images/cincin/cincinbg.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/anting/1.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Perhiasan Cincin</h2>
-								<span>5 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="{{ url('perhiasan-gelang') }}">
-					<div class="img-wrap">
-						<img src="assets/master/images/gelang/gelangbg.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Perhiasan Gelang</h2>
-								<span>5 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="{{ url('perhiasan-kalung') }}">
-					<div class="img-wrap">
-						<img src="assets/master/images/kalung/kalungbg.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Perhiasan Kalung</h2>
-								<span>5 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="{{ url('perhiasan-anting') }}">
-					<div class="img-wrap">
-						<img src="assets/master/images/anting/antingbg.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Perhiasan Anting</h2>
-								<span>5 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="assets/master/images/img_5.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="assets/master/images/anting/2.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_6.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/anting/2.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="assets/master/images/anting/3.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_7.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/anting/3.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="assets/master/images/anting/4.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_8.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/anting/4.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="assets/master/images/anting/5.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="images/img_9.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/anting/5.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_10.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_11.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_12.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_13.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_14.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_15.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		  		<a href="#">
-					<div class="img-wrap">
-						<img src="images/img_1.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_2.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_3.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_4.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
-					<div class="img-wrap">
-						<img src="images/img_5.jpg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner">
-							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_6.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_6.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_7.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_7.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_8.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_8.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_9.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_9.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_10.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_10.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_11.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_11.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_12.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_12.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_13.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_13.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_14.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_14.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="images/img_15.jpg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
 						<img src="images/img_15.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
-						<div class="text-inner">
+						<div class="text-inner popup">
 							<div>
 								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		  		<a href="images/img_1.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_1.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_2.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_2.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_3.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_3.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_4.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_4.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_5.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_5.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_6.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_6.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_7.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_7.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_8.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_8.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_9.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_9.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_10.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_10.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_11.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_11.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_12.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_12.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_13.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_13.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_14.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_14.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="images/img_15.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="images/img_15.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  
+		  
+
 		</div>
 
-
+		
 	</div>
 
 	</div>
