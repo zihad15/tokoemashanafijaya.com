@@ -15,9 +15,16 @@
 			<div class="col-md-12">
 				<div id="fh5co-aside-inner">
 					<div class="row" id="fh5co-bio">
-						<div class="col-md-12">
-							<h2>Sekilas Tentang Toko Emas Hanafi Jaya</h2>
+						<div class="row">
+							<div class="col-md-3">
+								<img src="assets/master/images/icon.jpeg" height="130px" width="140px">
+							</div>
+							<br>
+							<div class="col-md-9">
+								<h2>Sekilas Tentang <br> Toko Emas Hanafi Jaya</h2>
+							</div>
 						</div>
+						<br>
 						<div class="col-md-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -49,6 +56,9 @@
 			</div>
 		</div>
 	</div>
+	<center>
+		<img src="assets/master/images/background.jpeg" class="responsive" height="400px" width="700px">
+	</center>
 	<div class="container-fluid" id="fh5co-image-grid">
 
 
@@ -64,7 +74,7 @@
 						<div class="text-inner">
 							<div>
 								<h2>Perhiasan Cincin</h2>
-								<span>5 photos</span>
+								<span>35 photos</span>
 							</div>
 						</div>
 					</div>
@@ -79,7 +89,7 @@
 						<div class="text-inner">
 							<div>
 								<h2>Perhiasan Gelang</h2>
-								<span>5 photos</span>
+								<span>10 photos</span>
 							</div>
 						</div>
 					</div>
@@ -94,7 +104,7 @@
 						<div class="text-inner">
 							<div>
 								<h2>Perhiasan Kalung</h2>
-								<span>5 photos</span>
+								<span>3 photos</span>
 							</div>
 						</div>
 					</div>
@@ -109,22 +119,22 @@
 						<div class="text-inner">
 							<div>
 								<h2>Perhiasan Anting</h2>
-								<span>5 photos</span>
+								<span>3 photos</span>
 							</div>
 						</div>
 					</div>
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="single.html">
+		    <a href="{{ url('emas-batangan') }}">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_5.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/emasbatangan/emasbatanganbg.png" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
 						<div class="text-inner">
 							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
+								<h2>Emas Batangan</h2>
+								<span>2 photos</span>
 							</div>
 						</div>
 					</div>

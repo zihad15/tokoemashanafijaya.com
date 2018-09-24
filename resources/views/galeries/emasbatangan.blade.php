@@ -65,9 +65,9 @@
 		  <div class="grid-sizer"></div>
 
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		  		<a href="assets/master/images/anting/1.jpeg" class="image-popup" title="Name of photo or title here">
+		  	<a href="assets/master/images/emasbatangan/1.jpeg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="assets/master/images/anting/1.jpeg" alt="" class="img-responsive">
+						<img src="assets/master/images/emasbatangan/1.jpeg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
 						<div class="text-inner popup">
@@ -79,9 +79,9 @@
 				</a>
 		  </div>
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="assets/master/images/anting/2.jpeg" class="image-popup" title="Name of photo or title here">
+		  	<a href="assets/master/images/emasbatangan/2.jpeg" class="image-popup" title="Name of photo or title here">
 					<div class="img-wrap">
-						<img src="assets/master/images/anting/2.jpeg" alt="" class="img-responsive">
+						<img src="assets/master/images/emasbatangan/2.jpeg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
 						<div class="text-inner popup">
@@ -92,21 +92,6 @@
 					</div>
 				</a>
 		  </div>
-		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
-		    <a href="assets/master/images/anting/3.jpeg" class="image-popup" title="Name of photo or title here">
-					<div class="img-wrap">
-						<img src="assets/master/images/anting/3.jpeg" alt="" class="img-responsive">
-					</div>
-					<div class="text-wrap">
-						<div class="text-inner popup">
-							<div>
-								<h2>Name of photo or title here</h2>
-							</div>
-						</div>
-					</div>
-				</a>
-		  </div>
-		  
 		  
 
 		</div>

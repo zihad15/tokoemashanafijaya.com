@@ -13,6 +13,8 @@
 	<meta name="description" content="Free HTML5 Website Template by gettemplates.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
 	<meta name="author" content="gettemplates.co" />
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="assets/master/images/icon.jpeg">
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -48,6 +50,14 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+
+	<style type="text/css">
+	.responsive {
+				    width: 100%;
+				    max-width: 700px;
+				    height: auto;
+				}
+	</style>
 
 	</head>
 	<body>

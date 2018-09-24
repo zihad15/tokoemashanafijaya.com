@@ -34,3 +34,7 @@ Route::get('/perhiasan-kalung', function () {
 Route::get('/perhiasan-anting', function () {
     return view('galeries.anting');
 });
+
+Route::get('/emas-batangan', function () {
+    return view('galeries.emasbatangan');
+});
