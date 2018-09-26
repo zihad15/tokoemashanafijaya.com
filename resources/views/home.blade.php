@@ -25,21 +25,41 @@
 							</div>
 						</div>
 						<br>
-						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</div>
-						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<div class="col-md-12">
+							<p style="text-align: justify;">Toko Emas Hanafi Jaya merupakan unit usaha yang bergerak di bidang pembuatan, penjualan berbagai perhiasan seperti emas, berlian dan batu permata. Kami terdaftar sebagai perusahaan dengan nama PT. Asia Gembira Baru
+
+							<br><br>
+ 
+							Lebih dari 5 Cabang Unit Usaha dibawah naungan PT. Asia Gembira Baru bergerak disektor industry ini. 
+							Toko Emas Asia Gembira (Ciledug Tangerang), Toko Emas Siti Jewellery (PasMod Bintaro), Toko Emas Samudra (Bintaro) dan Toko Emas Gembira (Pasar Mayestik) dan Toko Emas Bahagia (Pasar Blok A) unit usaha yang sudah kami jalankan.
+
+							<br><br>
+
+							Telah lebih dari 20th bergerak di bidang perhiasan emas, Hanafi Jaya menjadi merk dagang yang kami gunakan dalam industri perhiasan emas dan industri lainnya. Sebagai pemilik resmi nama merk dagang Asia Gembira Baru, kami tergabung dalam PT Asia Gembira Baru Group. Jaminan kualitas kadar dan sistem jual beli perhiasan emas maupun batangan yang lebih baik dan terpercaya merupakan kredibilitas kami. 
+
+							<br><br>
+							 
+							PT. Asia Gembira Baru berdiri sejak 1989, menjaga kadar emas kami dengan menjual emas kadar unggulan international 75% dan kadar menengah 70% serta kadar 50 dan 42%. Kami menjaga kadar emas kami dengan serta menjual emas muda 37.5%. Kadar menengah (70%) adalah kadar khusus yang hanya dijual di toko kami. Kadar istimewa ini memiliki banyak kelebihan, perhiasan emas lebih tahan lama dan tidak mudah pudar dibanding kadar lain dibawahnya. Selain itu, dengan kadar menengah  70%, kadar ini lebih terjangkau dari kadar 75% dengan cap UBS, HWT Citra dan AYU.
+
+							<br><br>
+
+							Berat (g) tambahan per gram:<br>
+							1	+ 15.000<br>
+							2	+ 15.000<br>
+							3	+ 10.000<br>
+							5	+ 10.000<br>
+							10	+ 5000<br>
+							25	+ 4000<br>
+							50	+ 3000<br>
+							100	+ 3000<br>
+
+							<br><br>
+
+							Emas naik, anda pasti untung!
+							<br>
+							NB: Harga yang tercantum dan di update adalah harga dasar sebelum ditambah tambahan per gramnya. Dan harga itu merupakan harga terima toko kami pada saat itu. Harga emas juga bisa berubah sewaktu waktu karena pergerakan harga emas dunia yang fluktuatif, sehingga harga diatas kami sarankan hanya sebagai gambaran harga hari itu. Kami akan mecoba terbaik memberikan update harga.
+
+							</p>
 						</div>
 						<div class="col-md-12 fh5co-social">
 							<a href="#"><i class="icon-envelope"></i></a>
@@ -143,13 +163,13 @@
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
 		    <a href="single.html">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_6.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/liontin/liontinbg.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
 						<div class="text-inner">
 							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
+								<h2>Perhiasan Liontin</h2>
+								<span>- photos</span>
 							</div>
 						</div>
 					</div>
@@ -158,13 +178,13 @@
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
 		    <a href="single.html">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_7.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/cincincowok/cincincowokbg.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
 						<div class="text-inner">
 							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
+								<h2>Cincin Cowok</h2>
+								<span>- photos</span>
 							</div>
 						</div>
 					</div>
@@ -173,13 +193,13 @@
 		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
 		    <a href="single.html">
 					<div class="img-wrap">
-						<img src="assets/master/images/img_8.jpg" alt="" class="img-responsive">
+						<img src="assets/master/images/berlian/berlianbg.jpg" alt="" class="img-responsive">
 					</div>
 					<div class="text-wrap">
 						<div class="text-inner">
 							<div>
-								<h2>Name of photo or title here</h2>
-								<span>72 photos</span>
+								<h2>Perhiasan Berlian</h2>
+								<span>- photos</span>
 							</div>
 						</div>
 					</div>

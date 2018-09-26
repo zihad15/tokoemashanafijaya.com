@@ -106,6 +106,48 @@
 					</div>
 				</a>
 		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		  		<a href="assets/master/images/kalung/4.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="assets/master/images/kalung/4.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="assets/master/images/kalung/5.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="assets/master/images/kalung/5.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
+		  <div class="grid-item item animate-box" data-animate-effect="fadeIn">
+		    <a href="assets/master/images/kalung/6.jpg" class="image-popup" title="Name of photo or title here">
+					<div class="img-wrap">
+						<img src="assets/master/images/kalung/6.jpg" alt="" class="img-responsive">
+					</div>
+					<div class="text-wrap">
+						<div class="text-inner popup">
+							<div>
+								<h2>Name of photo or title here</h2>
+							</div>
+						</div>
+					</div>
+				</a>
+		  </div>
 		  
 		  
 
