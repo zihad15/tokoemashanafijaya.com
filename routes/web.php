@@ -38,3 +38,11 @@ Route::get('/perhiasan-anting', function () {
 Route::get('/emas-batangan', function () {
     return view('galeries.emasbatangan');
 });
+
+Route::get('/perhiasan-liontin', function () {
+    return view('galeries.liontin');
+});
+
+Route::get('/cincin-cowok', function () {
+    return view('galeries.cincincowok');
+});
